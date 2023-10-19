@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " D ",
+    "DYD",
+    "DDD"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:dirt",
+      "data": 0
+    },
+    "Y": {
+      "item": "minecraft:rotten_flesh"
+    }
+  },
+  "result": {
+    "item": "copromod:shit_ingot",
+    "count": 4
+  }
+}

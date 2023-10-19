@@ -1,0 +1,16 @@
+[
+{
+  "modid": "copromod",
+  "name": "Copro Mod",
+  "description": "Sosisiti penis mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["serje3"],
+  "credits": "To my big ass",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
